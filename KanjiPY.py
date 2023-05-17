@@ -139,8 +139,6 @@ class favBut(Button):
 
 
 class KanjiKVApp(App):
-
-    kv_directory = 'C:\\Users\\nrmyn\\OneDrive\\Documents\\KanjiApp'
     
 
     
